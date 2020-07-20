@@ -44,3 +44,5 @@ function deleteCharacter(string){
     })
     return array 
 }
+
+
